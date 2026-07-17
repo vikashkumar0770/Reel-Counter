@@ -85,6 +85,7 @@ Columns:
 
 ## 📸 Screenshots
 
+![image alt](https://github.com/vk9056871-code/Reel-Counter/blob/bd119ed2b0b51d1e304fa2fa291f9b5bb0a00855/Screenshot%202026-07-17%20151610.png)
 
 
 Add screenshots of the application here.
